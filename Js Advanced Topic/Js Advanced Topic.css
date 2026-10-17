@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+section {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+input {
+    display: block;
+    margin: 8px 0;
+    padding: 7px;
+}
+
+button {
+    padding: 7px 12px;
+    margin: 5px;
+}
+
+li {
+    margin: 5px;
+}
+
+#step2,
+#step3 {
+    display: none;
+}
